@@ -1,4 +1,4 @@
-package org.justice.website.scraper.enums
+package ej.webscraper.enums
 
 enum class Condition(val condition: String) {
     PERFECT("perfect"),

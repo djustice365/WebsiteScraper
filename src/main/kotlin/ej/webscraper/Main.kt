@@ -1,5 +1,7 @@
-import org.justice.website.scraper.models.CardData
-import org.justice.website.scraper.services.PokemonService
+package ej.webscraper
+
+import ej.webscraper.models.CardData
+import ej.webscraper.services.PokemonService
 
 fun main(args: Array<String>) {
     val productionNumber = "58/102"

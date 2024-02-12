@@ -1,4 +1,4 @@
-package org.justice.website.scraper.enums
+package ej.webscraper.enums
 
 enum class HTMLElements(val element: String) {
     HTML("html"),

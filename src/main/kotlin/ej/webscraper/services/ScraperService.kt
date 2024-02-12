@@ -1,4 +1,4 @@
-package org.justice.website.scraper.services
+package ej.webscraper.services
 
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document

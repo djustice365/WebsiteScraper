@@ -1,4 +1,4 @@
-package org.justice.website.scraper.services
+package ej.webscraper.services
 
 class CSSQueryService {
 

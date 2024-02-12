@@ -1,9 +1,9 @@
-package org.justice.website.scraper.services
+package ej.webscraper.services
 
 import org.jsoup.select.Elements
-import org.justice.website.scraper.enums.Condition
-import org.justice.website.scraper.models.CardData
-import org.justice.website.scraper.models.NameBaseDTO
+import ej.webscraper.enums.Condition
+import ej.webscraper.models.CardData
+import ej.webscraper.models.NameBaseDTO
 import java.net.URLEncoder
 import java.nio.charset.StandardCharsets
 import kotlin.math.ceil

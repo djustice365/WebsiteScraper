@@ -1,4 +1,4 @@
-package org.justice.website.scraper.models
+package ej.webscraper.models
 
 data class NameBaseDTO(
     var name: String,

@@ -1,6 +1,6 @@
-package org.justice.website.scraper.models
+package ej.webscraper.models
 
-import org.justice.website.scraper.enums.Condition
+import ej.webscraper.enums.Condition
 
 data class CardData(
     var name: String,
